@@ -1,41 +1,39 @@
----
 layout: about
 title: about
 permalink: /
 subtitle: BS-MS Physics Student, IISER Mohali
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Mohali, Punjab, India</p>
-    <p>IISER Mohali</p>
+align: right
+image: jaskirat_singh.jpeg
+image_circular: false
+more_info: >
+Mohali, Punjab, India
+IISER Mohali
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+enabled: false
+scrollable: true
+limit: 5
 
 latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+enabled: false
+scrollable: true
+limit: 3
 
 I am Jaskirat Singh, a BS-MS Physics student at IISER Mohali.
 
 My research interests include:
 
-- Nuclear structure physics
-- Plasma physics and fusion energy
-- Nonlinear dynamical systems
-- Physics-informed machine learning
-- Particle scattering and particle-matter interactions
+* Nuclear structure physics
+* Plasma physics and fusion energy
+* Nonlinear dynamical systems
+* Physics-informed machine learning
+* Particle scattering and particle-matter interactions
 
-I am currently working with Dr. Chong Qi (KTH Royal Institute of Technology, Sweden) on physics-informed neural approaches to nuclear mass modeling and the analysis of structured residual behavior. My work focuses on understanding systematic deviations in nuclear mass predictions and investigating signatures of complex dynamics in residual structures.
+My work lies at the interface of nuclear structure physics, particle interactions, and nonlinear dynamical systems, with a particular interest in understanding complex physical phenomena through data-driven and physics-informed approaches. I am currently developing neural frameworks for modeling structured residual behavior in nuclear systems and investigating spectral signatures associated with nonlinear dynamics.
 
-I am broadly interested in computational approaches to complex physical systems, particularly at the intersection of data-driven methods and fundamental physics.
+My background includes scattering theory and particle-matter interaction studies, including PIXE and muon-induced processes. I am increasingly interested in plasma dynamics, transport phenomena, and magnetically confined fusion systems, particularly the physical processes governing confined plasmas and fusion-relevant environments.
