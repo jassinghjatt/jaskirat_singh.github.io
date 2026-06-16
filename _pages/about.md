@@ -1,38 +1,40 @@
+---
 layout: about
 title: about
 permalink: /
 subtitle: BS-MS Physics Student, IISER Mohali
 
 profile:
-align: right
-image: jaskirat_singh.jpeg
-image_circular: false
-more_info: >
-Mohali, Punjab, India
-IISER Mohali
+  align: right
+  image: jaskirat_singh.jpeg
+  image_circular: false
+  more_info: >
+    <p>Mohali, Punjab, India</p>
+    <p>IISER Mohali</p>
 
 selected_papers: true
 social: true
 
 announcements:
-enabled: false
-scrollable: true
-limit: 5
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-enabled: false
-scrollable: true
-limit: 3
+  enabled: false
+  scrollable: true
+  limit: 3
+---
 
 I am Jaskirat Singh, a BS-MS Physics student at IISER Mohali.
 
 My research interests include:
 
-* Nuclear structure physics
-* Plasma physics and fusion energy
-* Nonlinear dynamical systems
-* Physics-informed machine learning
-* Particle scattering and particle-matter interactions
+- Nuclear structure physics
+- Plasma physics and fusion energy
+- Nonlinear dynamical systems
+- Physics-informed machine learning
+- Particle scattering and particle-matter interactions
 
 My work lies at the interface of nuclear structure physics, particle interactions, and nonlinear dynamical systems, with a particular interest in understanding complex physical phenomena through data-driven and physics-informed approaches. I am currently developing neural frameworks for modelling structured residual behaviour in nuclear systems and investigating spectral signatures associated with nonlinear dynamics.
 
