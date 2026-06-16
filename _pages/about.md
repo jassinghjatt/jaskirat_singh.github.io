@@ -9,7 +9,7 @@ profile:
   image: jaskirat_singh.jpeg
   image_circular: false
   more_info: >
-    <p>Mohali, Punjab, India</p>
+    <p>Hanumangarh Town, Rajasthan, India</p>
     <p>IISER Mohali</p>
 
 selected_papers: true
