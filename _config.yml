@@ -2,18 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jaskirat Singh # the website title (if blank, full name will be used instead)
 first_name: Jaskirat
 last_name: Singh
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Feel free to contact me regarding research collaborations, internships, PhD opportunities, or academic discussions.
+description: >
+  Personal academic website of Jaskirat Singh, BS-MS Physics student at IISER Mohali working in nuclear physics, nonlinear dynamics, machine learning, and plasma physics.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  © Jaskirat Singh. Hosted on GitHub Pages.
+keywords: nuclear physics, plasma physics, nonlinear dynamics, machine learning, IISER Mohali, Jaskirat Singh
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -59,12 +57,12 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: true
+      d: true
     distill:
-      enabled: true
+      d: true
   compat:
     bootstrap:
-      enabled: false
+      d: false
       support_window: v1.0-v1.2
       deprecates_in: v1.3
       removed_in: v2.0
@@ -463,7 +461,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
