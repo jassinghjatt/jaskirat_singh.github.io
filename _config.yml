@@ -8,7 +8,7 @@ last_name: Singh
 contact_note: >
   Feel free to contact me regarding research collaborations, internships, PhD opportunities, or academic discussions.
 description: >
-  Personal academic website of Jaskirat Singh, BS-MS Physics student at IISER Mohali working in nuclear physics, nonlinear dynamics, machine learning, and plasma physics.
+  Personal academic website of Jaskirat Singh, BS-MS Physics student at IISER Mohali. Research interests include nuclear structure physics, nonlinear dynamics, plasma physics, and physics-informed machine learning.
 footer_text: >
   © Jaskirat Singh. Hosted on GitHub Pages.
 keywords: nuclear physics, plasma physics, nonlinear dynamics, machine learning, IISER Mohali, Jaskirat Singh
@@ -119,8 +119,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Jaskirat Singh
+blog_description: Research notes and academic updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -338,8 +338,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Singh]
+  first_name: [Jaskirat, J.]
 
   style: apa
   locale: en
