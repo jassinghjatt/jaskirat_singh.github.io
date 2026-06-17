@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Research Notes
 permalink: /research-notes/
 nav: true
