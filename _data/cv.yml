@@ -130,12 +130,11 @@ cv:
       - name: Nuclear Mass Hybrid Modeling Framework
         summary: Physics-informed machine learning framework for nuclear mass prediction.
 
-      - name: Quantum Chaos in Nuclear Mass Residuals
-        summary: Spectral analysis of residual structures and frequency signatures.
-
-      - name: FRDM and Duflo-Zuker Computational Framework
-        summary: Computational implementation and analysis of global nuclear mass models.
-
+      - name: Scattering of Subatomic Particles and Related Phenomena
+        summary: Computational study of Rutherford scattering, quantum tunneling of alpha particles, and Particle Induced X-ray Emission (PIXE) using classical, quantum, and relativistic approaches.
+      
+      - name: Adaptive Residual Partitioning Framework
+        summary: Iterative machine-learning framework that partitions residuals into dynamic categories, trains specialized predictors for each category, and updates the partitions during learning to improve structured residual modelling.
     References:
 
       - name: Dr. Chong Qi
