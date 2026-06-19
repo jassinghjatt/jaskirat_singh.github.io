@@ -6,28 +6,29 @@ nav: true
 nav_order: 5
 ---
 
-## Repositories
-{% assign repos = site.repositories | sort: "date" | reverse %}
+## Research Repositories
 
-<div class="projects">
-  {% for repo in repos %}
-    <div class="project-card">
+<div class="card mt-3 p-3">
 
-      <h3>{{ repo.title }}</h3>
+### Physics-Informed Neural Framework for Nuclear Mass Residual Analysis
 
-      {{ repo.content }}
+Physics-informed hybrid framework for nuclear mass modelling and residual analysis.
 
-      <p>
-        {% if repo.github %}
-          <a href="{{ repo.github }}" target="_blank">GitHub Repository</a>
-        {% endif %}
+**Resources**
 
-        {% if repo.zenodo %}
-          |
-          <a href="{{ repo.zenodo }}" target="_blank">Zenodo Archive</a>
-        {% endif %}
-      </p>
+- [GitHub Repository](https://github.com/jassinghjatt/Nuclear_Neural_Hybrid_Mass_Model)
+- [Zenodo Archive](https://doi.org/10.5281/zenodo.20299728)
 
-    </div>
-  {% endfor %}
+</div>
+
+<div class="card mt-3 p-3">
+
+### No Faster-Than-Light Communication via Quantum Entanglement
+
+Proof-by-contradiction analysis showing that quantum entanglement cannot be used for superluminal communication.
+
+**Resources**
+
+- [GitHub Repository](https://github.com/jassinghjatt/No-Faster-than-light-speed-Communication-Proof-by-Contradiction-)
+
 </div>
