@@ -182,6 +182,8 @@ collections:
     output: true
   teachings:
     output: true
+  repositories:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
