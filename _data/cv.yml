@@ -86,16 +86,19 @@ cv:
     Skills:
 
       - name: Programming
-        keywords: Python, C++, MATLAB
+        keywords: Python(scientific computing & ML)
 
       - name: Machine Learning
-        keywords: TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost
+        keywords: PyTorch, TensorFlow/Keras, PyTorch Geometric, scikit-learn.
 
       - name: Scientific Computing
         keywords: NumPy, Pandas, SciPy, Matplotlib
 
       - name: Research Tools
-        keywords: Git, GitHub, Linux, LaTeX, VS Code
+        keywords: Git, GitHub, LaTeX, VS Code
+      
+      - name: Embedded Systems & Instrumentation
+        keywords: Arduino-based motor control and digital logic interfacing (555 timer, SR latch, logic ICs), L298N driver integration, stepper motor control, oscilloscope signal characterization.  
 
     Languages:
 
