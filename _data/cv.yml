@@ -25,9 +25,9 @@ cv:
         start_date: 2023
         end_date: Present
         highlights:
-          - CGPA: 8.91/10
+          - "CGPA: 8.91/10"
           - Merit-cum-Means Scholarship
-          - Relevant coursework: Quantum Mechanics, Quantum Field Theory I, Nuclear Physics, Relativity, Mathematical Methods, Computational Physics, Plasma Physics
+          - "Relevant coursework: Quantum Mechanics, Quantum Field Theory I, Nuclear Physics, Relativity, Mathematical Methods, Computational Physics, Plasma Physics."
 
       - institution: S.R.M. International School
         location: Hanumangarh, India
@@ -35,7 +35,7 @@ cv:
         start_date: 2022
         end_date: 2023
         highlights:
-          - Percentage: 97.66%
+          - "Percentage: 97.66%"
           - Physics and Mathematics Subject Topper
 
     Experience:
