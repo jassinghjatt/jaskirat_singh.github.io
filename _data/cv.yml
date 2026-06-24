@@ -24,8 +24,8 @@ cv:
         studyType: BS-MS Integrated Program
         start_date: 2023
         end_date: Present
-        score: "CGPA: 8.91/10"
         highlights:
+          - CGPA: 8.91/10
           - Merit-cum-Means Scholarship
           - Relevant coursework: Quantum Mechanics, Quantum Field Theory I, Nuclear Physics, Relativity, Mathematical Methods, Computational Physics, Plasma Physics
 
@@ -34,8 +34,8 @@ cv:
         studyType: Senior Secondary (Class XII)
         start_date: 2022
         end_date: 2023
-        score: "97.66%"
         highlights:
+          - Percentage: 97.66%
           - Physics and Mathematics Subject Topper
 
     Experience:
