@@ -53,6 +53,16 @@ View Poster
 
 ---
 
+# Original Research Paper
+
+<a class="btn btn-primary"
+href="/assets/pdf/paper_for_poster.pdf"
+target="_blank">
+Download Research Paper
+</a>
+
+---
+
 # Presentation Photographs
 
 <div class="row">
