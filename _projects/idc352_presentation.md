@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ancilla-Assisted Protection of Information: Application to Atom–Cavity Systems
-description: Technical report, scientific poster, and presentation on ancilla-assisted quantum noise mitigation in atom–cavity systems.
+title: "Ancilla-Assisted Protection of Information: Application to Atom-Cavity Systems"
+description: "Technical report, scientific poster, and presentation on ancilla-assisted quantum noise mitigation in atom-cavity systems."
 importance: 4
 nav: false
 ---
