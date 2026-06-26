@@ -12,8 +12,8 @@ Physics-informed hybrid framework for nuclear mass modelling and residual analys
 
 **Links**
 
-- GitHub: https://github.com/jassinghjatt/Nuclear_Neural_Hybrid_Mass_Model
-- Zenodo: https://doi.org/10.5281/zenodo.20299728
+- 🔗 <a href="https://github.com/jassinghjatt/Nuclear_Neural_Hybrid_Mass_Model" target="_blank">GitHub Repository</a>
+- 📦 <a href="https://doi.org/10.5281/zenodo.20299728" target="_blank">Zenodo Archive</a>
 
 ---
 
@@ -23,7 +23,7 @@ Proof-by-contradiction analysis showing that quantum entanglement cannot be used
 
 **Links**
 
-- GitHub: https://github.com/jassinghjatt/No-Faster-than-light-speed-Communication-Proof-by-Contradiction-
+- 🔗 <a href="https://github.com/jassinghjatt/No-Faster-than-light-speed-Communication-Proof-by-Contradiction-" target="_blank">GitHub Repository</a>
 
 ---
 
@@ -33,7 +33,7 @@ Iterative residual-learning framework that dynamically partitions data into adap
 
 **Links**
 
-- GitHub: https://github.com/jassinghjatt/Adaptive-Residual-Partitioning-Framework
+- 🔗 <a href="https://github.com/jassinghjatt/Adaptive-Residual-Partitioning-Framework" target="_blank">GitHub Repository</a>
 
 ---
 
@@ -43,4 +43,4 @@ Computational study of Rutherford scattering, quantum tunnelling of alpha partic
 
 **Links**
 
-- GitHub: https://github.com/jassinghjatt/scattering-subatomic-particles
+- 🔗 <a href="https://github.com/jassinghjatt/scattering-subatomic-particles" target="_blank">GitHub Repository</a>
