@@ -65,15 +65,15 @@ Download Research Paper
 <div class="row">
 
 <div class="col-sm-4">
-<img src="/assets/img/i1.jpeg" class="img-fluid rounded">
+<img src="{{ '/assets/img/i1.jpeg' | relative_url }}" class="img-fluid rounded">
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/i2.jpeg" class="img-fluid rounded">
+<img src="{{ '/assets/img/i2.jpeg' | relative_url }}" class="img-fluid rounded">
 </div>
 
 <div class="col-sm-4">
-<img src="/assets/img/i3.jpeg" class="img-fluid rounded">
+<img src="{{ '/assets/img/i3.jpeg' | relative_url }}" class="img-fluid rounded">
 </div>
 
 </div>
