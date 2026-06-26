@@ -6,8 +6,6 @@ importance: 4
 nav: false
 ---
 
-# Ancilla-Assisted Protection of Information: Application to Atom–Cavity Systems
-
 This project presents a technical report, scientific poster, and oral presentation based on the 2023 paper **"Ancilla-Assisted Protection of Information: Application to Atom–Cavity Systems"** by Gangwar *et al.*
 
 The work investigates a fundamentally different approach to quantum error protection. Rather than correcting errors after they occur, the protocol transfers quantum information from an atomic system into a **decoherence-free subspace** encoded in two ancillary photons before environmental noise acts on the atom. After the noisy evolution, the information is deterministically recovered, effectively making an arbitrary noisy environment transparent to the protected quantum state.
@@ -33,7 +31,7 @@ The report provides a detailed derivation of the protocol, beginning from the ph
 # Technical Report
 
 <iframe
-src="/assets/pdf/MS23120_Jaskirat_Singh_IDC_352_Report.pdf"
+src="{{/assets/pdf/MS23120_Jaskirat_Singh_IDC_352_Report.pdf| relative_url }}"
 width="100%"
 height="900">
 </iframe>
@@ -43,7 +41,7 @@ height="900">
 # Scientific Poster
 
 <a class="btn btn-primary"
-href="/assets/pdf/MS23120_Poster_IDC352_J_S_Grewal.pdf"
+href="{{/assets/pdf/MS23120_Poster_IDC352_J_S_Grewal.pdf| relative_url }}"
 target="_blank">
 View Poster
 </a>
@@ -53,7 +51,7 @@ View Poster
 # Original Research Paper
 
 <a class="btn btn-primary"
-href="/assets/pdf/paper_for_poster.pdf"
+href="{{/assets/pdf/paper_for_poster.pdf| relative_url }}"
 target="_blank">
 Download Research Paper
 </a>
