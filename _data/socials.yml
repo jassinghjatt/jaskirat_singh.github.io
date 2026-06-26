@@ -1,6 +1,6 @@
 # Social links
 
-cv_pdf: assets/pdf/Jaskirat_Singh_CV.pdf
+cv_pdf: "{{ '/assets/pdf/CV_Jaskirat_Singh.pdf' | relative_url }}"
 
 email: ms23120@iisermohali.ac.in
 
