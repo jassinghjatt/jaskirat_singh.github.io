@@ -11,10 +11,7 @@ cv:
       username: 0009-0005-2703-8505
 
   summary: >
-    BS-MS Physics student at IISER Mohali working at the interface of
-    nuclear structure, particle interactions, nonlinear dynamics and
-    computational physics. Interested in physics-informed machine learning,
-    nuclear mass systematics, plasma dynamics and transport phenomena.
+    BS-MS Physics student at IISER Mohali working at the interface of computational physics, nonlinear dynamics, and particle interactions. Interested in physics-informed machine learning, plasma physics, magnetically confined fusion, transport phenomena, and nuclear mass systematics.
 
   sections:
     Education:
@@ -118,14 +115,15 @@ cv:
 
       - name: Research Interests
         keywords:
-          - Nuclear Structure
-          - Nuclear Mass Systematics
-          - Quantum Chaos
-          - Physics-Informed Machine Learning
+          - Plasma Physics
+          - Magnetically Confined Fusion
           - Nonlinear Dynamics
-          - Plasma Dynamics
+          - Physics-Informed Machine Learning
+          - Computational Physics
           - Transport Phenomena
           - Particle Scattering
+          - Particle-Matter Interactions
+          - Nuclear Mass Systematics
 
 
     Projects:

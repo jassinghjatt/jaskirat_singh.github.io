@@ -2,7 +2,7 @@
 layout: page
 title: Entanglement-Assisted Classical Capacity of Noisy Quantum Channels
 description: Literature presentation on quantum information theory and communication through noisy quantum channels.
-importance: 5
+importance: 6
 nav: false
 ---
 

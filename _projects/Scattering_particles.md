@@ -2,7 +2,7 @@
 layout: page
 title: Scattering of Subatomic Particles & Related Phenomena
 description: Computational study of Rutherford scattering, quantum tunneling of alpha particles, and Particle Induced X-ray Emission (PIXE) using classical, quantum, and relativistic approaches.
-importance: 3
+importance: 2
 category: research
 github: jassinghjatt/scattering-subatomic-particles
 ---

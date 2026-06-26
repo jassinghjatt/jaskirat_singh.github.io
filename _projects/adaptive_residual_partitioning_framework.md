@@ -2,7 +2,7 @@
 layout: page
 title: Adaptive Residual Partitioning Framework
 description: Iterative residual-learning framework that dynamically partitions data into adaptive bins and retrains specialized models to improve prediction accuracy across heterogeneous datasets.
-importance: 4
+importance: 1
 category: research
 github: jassinghjatt/Adaptive-Residual-Partitioning-Framework
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Physics-Informed Neural Framework for Nuclear Mass Residual Analysis
 description: Physics-informed hybrid framework for nuclear mass modelling and residual analysis.
-importance: 1
+importance: 3
 category: research
 github: jassinghjatt/Nuclear_Neural_Hybrid_Mass_Model
 ---

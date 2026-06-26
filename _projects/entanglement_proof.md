@@ -2,7 +2,7 @@
 layout: page
 title: No Faster-Than-Light Communication via Quantum Entanglement
 description: Proof-by-contradiction analysis showing that quantum entanglement cannot be used for superluminal communication.
-importance: 2
+importance: 5
 category: research
 github: jassinghjatt/No-Faster-than-light-speed-Communication-Proof-by-Contradiction-
 ---
