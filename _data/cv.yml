@@ -100,6 +100,33 @@ cv:
       - name: Embedded Systems & Instrumentation
         keywords: Arduino-based motor control and digital logic interfacing (555 timer, SR latch, logic ICs), L298N driver integration, stepper motor control, oscilloscope signal characterization.  
 
+    Academic Presentations:
+
+      - name: Entanglement-Assisted Classical Capacity of Noisy Quantum Channels
+
+        organization: IISER Mohali
+
+        date: 2026
+
+        summary: Graduate literature presentation (PHY631) based on the landmark Physical Review Letters paper by Bennett, Shor, Smolin and Thapliyal (1999).
+
+        highlights:
+
+          - Presented quantum channel capacities, mutual information, depolarizing and erasure channels, superdense coding, quantum teleportation, and the role of prior entanglement in enhancing classical communication.
+
+          
+      - name: "Ancilla-Assisted Protection of Information: Application to Atom–Cavity Systems"
+
+        organization: IISER Mohali
+
+        date: 2026
+
+        summary: Scientific poster, technical report, and oral presentation (IDC352) based on Gangwar et al. (2023).
+
+        highlights:
+
+          - Presented ancilla-assisted quantum information protection, decoherence-free subspaces, cavity quantum electrodynamics, and STIRAP-based quantum control.
+
     Languages:
 
       - name: English
