@@ -34,7 +34,7 @@ The presentation also discusses the physical significance of the result that sha
 # Presentation Slides
 
 <iframe
-src="{{/assets/pdf/g12_presentation.pdf| relative_url }}"
+src="{{'/assets/pdf/g12_presentation.pdf'| relative_url }}"
 width="100%"
 height="900">
 </iframe>
@@ -44,7 +44,7 @@ height="900">
 # Research Paper
 
 <a class="btn btn-primary"
-href="{{/assets/pdf/PhysRevLett.83.3081.pdf| relative_url }}"
+href="{{'/assets/pdf/PhysRevLett.83.3081.pdf'| relative_url }}"
 target="_blank">
 Download Research Paper
 </a>

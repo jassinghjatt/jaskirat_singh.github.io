@@ -31,7 +31,7 @@ The report provides a detailed derivation of the protocol, beginning from the ph
 # Technical Report
 
 <iframe
-src="{{/assets/pdf/MS23120_Jaskirat_Singh_IDC_352_Report.pdf| relative_url }}"
+src="{{'/assets/pdf/MS23120_Jaskirat_Singh_IDC_352_Report.pdf'| relative_url }}"
 width="100%"
 height="900">
 </iframe>
@@ -41,7 +41,7 @@ height="900">
 # Scientific Poster
 
 <a class="btn btn-primary"
-href="{{/assets/pdf/MS23120_Poster_IDC352_J_S_Grewal.pdf| relative_url }}"
+href="{{'/assets/pdf/MS23120_Poster_IDC352_J_S_Grewal.pdf'| relative_url }}"
 target="_blank">
 View Poster
 </a>
@@ -51,7 +51,7 @@ View Poster
 # Original Research Paper
 
 <a class="btn btn-primary"
-href="{{/assets/pdf/paper_for_poster.pdf| relative_url }}"
+href="{{'/assets/pdf/paper_for_poster.pdf'| relative_url }}"
 target="_blank">
 Download Research Paper
 </a>
