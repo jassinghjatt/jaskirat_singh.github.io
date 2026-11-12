@@ -31,10 +31,10 @@ I am Jaskirat Singh, a BS-MS Physics student at IISER Mohali.
 My research interests include:
 
 - Nuclear structure and nuclear mass systematics
-- Physics-informed machine learning.
+- Plasma physics, transport phenomena, and magnetically confined fusion
+- Physics-informed machine learning
 - Particle scattering and particle-matter interactions
 - Data-driven modelling of nuclear masses and structured residuals
-- Plasma physics, transport phenomena, and magnetically confined fusion
 
 My work lies at the interface of particle interactions, nonlinear dynamical systems, and computational physics, with a particular interest in understanding complex physical phenomena through data-driven and physics-informed approaches. I am currently developing physics-informed neural frameworks for modelling structured residual behaviour and investigating spectral signatures associated with nonlinear dynamics using applications from nuclear mass systematics.
 
